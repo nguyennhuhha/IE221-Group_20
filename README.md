@@ -7,7 +7,7 @@ Sau khi start ta có như hình:
 
 ### Ở thư mục WEBSILL lớn: kích hoạt môi trường với câu lệnh
 .\env\Scripts\activate  
-![image](https://github.com/nguyennhuhha/IE221-Group_20/assets/94069476/8c57024d-06c4-4ee4-b1fb-7f581cb03ddc)
+![image](https://github.com/nguyennhuhha/IE221-Group_20/assets/94069476/8c57024d-06c4-4ee4-b1fb-7f581cb03ddc)  
 môi trường sẽ được kích hoạt như ảnh:  
 ![image](https://github.com/nguyennhuhha/IE221-Group_20/assets/94069476/3c66e1dc-ba7e-426a-9c72-1ac2f415930a)
 
