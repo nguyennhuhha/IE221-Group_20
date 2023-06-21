@@ -1,5 +1,9 @@
 # IE221-Group_20
 ## Tải thư mục WEBSILL chứa 2 folder là env là môi trường và webSill là code của trang web
+## Hoặc chỉ tải thư mục webSill bên trong WEBSILL và sau đó cài đặt môi trường env
+### Cài môi trường với câu lệnh:
+py -m venv env  
+sau đó ta sẽ có thư mục env đặt nó vào cùng thư mục chứa webSill sau đó thực hiện các bước dưới 
 ## Yêu cầu tải Xampp (tạo localhost) nhấn nút start bên cạnh 2 chức năng: Apache và MySQL  
 ![image](https://github.com/nguyennhuhha/IE221-Group_20/assets/94069476/d4e78959-0974-4965-870a-e0adac07bb3d)
 Sau khi start ta có như hình:  
