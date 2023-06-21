@@ -1,6 +1,8 @@
 # IE221-Group_20
 ## Tải thư mục WEBSILL chứa 2 folder là env là môi trường và webSill là code của trang web
-## Hoặc chỉ tải thư mục webSill bên trong WEBSILL và sau đó cài đặt môi trường env
+## Hoặc chỉ tải thư mục webSill bên trong WEBSILL và sau đó cài đặt môi trường env  
+Bản github chỉ có thư mục webSill
+Bản drive có đầy đủ thư mục env đến webSill
 ### Cài môi trường với câu lệnh:
 py -m venv env  
 sau đó ta sẽ có thư mục env đặt nó vào cùng thư mục chứa webSill sau đó thực hiện các bước dưới 
