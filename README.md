@@ -30,3 +30,6 @@ python manage.py runserver
 ### Xem trang admin với đường dẫn thêm sau là /admin/:
 ![image](https://github.com/nguyennhuhha/IE221-Group_20/assets/94069476/0861bd2b-6a57-4288-8e44-765b992bbbb0)  
 Sign in với username: admin2 / password: Nhuha123
+
+
+# Link github để đọc readme: https://github.com/nguyennhuhha/IE221-Group_20
